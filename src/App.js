@@ -4,6 +4,8 @@ import TaskList from './features/tasks/TaskList';
 import AddTaskForm from './features/tasks/AddTaskForm';
 import './App.css';
 
+
+//function app
 function App() {
   return (
     <div className="App">
